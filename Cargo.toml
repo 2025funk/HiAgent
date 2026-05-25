@@ -1,0 +1,9 @@
+[package]
+name = "hi_agent"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+eframe = "0.33"
+egui = "0.33"
+git2 = "0.18"
